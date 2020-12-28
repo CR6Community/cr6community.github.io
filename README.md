@@ -1,4 +1,4 @@
-# Creality CR-6 Community knowledge base
+# Creality CR-6 Community Knowledge Base
 
 Welcome on the CR-6 Community website &amp; knowledge base.
 
