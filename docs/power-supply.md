@@ -7,4 +7,4 @@
 * Power: 350W
 * Datasheet:
   [official website](https://www.meanwell.com/Upload/PDF/LRS-350/LRS-350-SPEC.PDF)
-  ([mirror](files/datasheets/Mean Well - LRS-350-SPEC.pdf))
+  ([mirror](../files/datasheets/MeanWell_LRS-350-SPEC.pdf))
