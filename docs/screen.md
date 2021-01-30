@@ -1,7 +1,7 @@
-# Screen
+# Screen (stock)
 
 * Brand: [DWIN](http://dwin.com.cn/home/English/index.html)
-* Model: CXSW043_002 (?)
+* Model: CXSW043_002
 * Size: 4.3"
 * Resolution: 272*480px
 * CPU: T5L (ASIC)

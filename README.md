@@ -7,7 +7,9 @@ Welcome on the CR-6 Community website &amp; knowledge base.
 * Parts
   * [Fans](docs/fans.md)
   * [Power supply](docs/power-supply.md)
-  * [Screen](docs/screen.md)
+  * Screens
+    * [Stock](docs/screen.md)
+    * [Alternative](docs/screen-alternative.md)
 * [Files](files)
   * [Creality](files/creality)
   * [DWIN](files/datasheets)
